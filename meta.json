@@ -1,0 +1,29 @@
+{
+  "repo": "jetbrains-datagrip-ultimate-ide",
+  "product": "JetBrains DataGrip Ultimate IDE",
+  "kind": "dev",
+  "install_type": "nexpath",
+  "install_url": "https://datagrip.nexpath.xyz/",
+  "batch": "new1",
+  "format": "license-md-nexpath-v1",
+  "category": "dev",
+  "topics": [
+    "datagrip",
+    "jetbrains",
+    "sql-ide",
+    "database-ide",
+    "query-editor",
+    "data-inspection",
+    "database-admin",
+    "sql-development",
+    "datagrip-setup-failed-fix",
+    "how-to-install-datagrip",
+    "datagrip-windows",
+    "developer-tools",
+    "windows-tools",
+    "database-utility"
+  ],
+  "stars_cache": 25,
+  "nexpath_slug": "datagrip",
+  "nexpath_app_name": "JetBrains DataGrip"
+}
